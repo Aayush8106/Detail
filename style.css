@@ -1,11 +1,13 @@
    .img{border-radius: 50%;
-        height: 100px;
+    height: 100px;
     width: 100px;
-   display:flex;
-        margin:auto
+    display: flex;
+    margin: auto;
+    object-fit: cover;
    }
 
    .hed{
     text-align: center;
 
    }
+
